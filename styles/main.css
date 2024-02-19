@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Readex Pro', sans-serif;
+    background-color: #f4f4f4; /* Light grey background color */
+    color: #333; /* Dark grey text color */
+}
+
+a {
+    text-decoration: none;
+    color: #000; /* Black text color */
+    font-weight: 500;
+}
+
+ul {
+    list-style-type: none;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+/* Streamlit Menu Bar */
+[data-testid="stDecoration"] {
+    visibility: visible !important;
+}
+
+.stToolbar {
+    visibility: visible !important;
+}
