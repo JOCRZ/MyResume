@@ -8,17 +8,17 @@ css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | JOJO VARGHSES"
+PAGE_TITLE = "Digital CV | JOJO VARGHESE"
 PAGE_ICON = ":wave:"
 NAME = "JOJO VARGHESE"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Junior Data Scientist, looking forward to support enterprises for data-driven decision-making.
 """
 EMAIL = "jojo3416jo@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
+    "LinkedIn": "https://www.linkedin.com/in/jojo-varghese-datastronaut/",
+    "GitHub": "https://github.com/JOCRZ",
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
