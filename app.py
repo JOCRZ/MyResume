@@ -1,7 +1,7 @@
 from pathlib import Path
 
 import streamlit as st
-
+@st.cache(allow_output_mutation=True)
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
