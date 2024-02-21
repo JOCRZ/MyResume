@@ -88,7 +88,7 @@ st.write("**Data Scientist Intern | The Sparks Foundation**")
 st.write("December 2023 - January 2024")
 st.write(
     """
-- ► The Internship involved completing multiple tasks, including improving my LinkedIn prole,
+- ► The Internship involved completing multiple tasks, including improving my LinkedIn profile,
 peer evaluation, and creating a credible resume on mycredible. The project primarily
 centered around using a Decision Tree to classify the iris flower. By focusing solely on this
 algorithm, I gained in-depth knowledge about its workings.
