@@ -16,7 +16,6 @@ NAME = "JOJO VARGHESE"
 DESCRIPTION = """
 Junior Data Scientist, looking forward to apply analytical skills to real-world problems and learn through
 the experience.
-Curious Data Scientist eager to 
 """
 EMAIL = "jojo3416jo@gmail.com"
 SOCIAL_MEDIA = {
