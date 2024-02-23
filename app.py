@@ -28,7 +28,7 @@ PROJECTS = {
     "🏆 Employee Turn Over Prediction - Logistic Regression": "https://employechurnprediction.streamlit.app/",
     "🏆 Recruit Salary Prediction - Linear Regression": "https://recruitsalarypredictor.streamlit.app/",
     "🏆 Iris Flower Classification - Decision Tree": "https://irisclassifications.streamlit.app/",
-    "🏆 HR Attrition Analysis Dashboard  Powerbi": "https://mavenanalytics.io/project/12578",
+    "🏆 HR Attrition Analysis Dashboard - Powerbi": "https://mavenanalytics.io/project/12578",
     "🏆 Sales Data Analysis Dashboard - Powerbi": "https://mavenanalytics.io/project/12577",
     "🏆 Walmart Sales Dashboard - LookerStudio": "https://lookerstudio.google.com/reporting/8bd21894-3814-44ac-83b5-ff2d7a454b2e",
 }
